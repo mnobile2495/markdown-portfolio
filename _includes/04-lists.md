@@ -1,3 +1,3 @@
-[] my
-[] favorite
-[] things
+- my
+- favorite
+- tings
